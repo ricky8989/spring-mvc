@@ -1,0 +1,4 @@
+- Spring jars
+- Hibernate validator jars
+- Apache commons logging jar
+
